@@ -19,7 +19,10 @@ export default function GithubProfileCard({prof}) {
             <div className="blog-header">
               <p className="subTitle blog-subtitle">{contactInfo.subtitle}</p>
             </div>
-            <h2 className="bio-text">"21 year old student at Hogeschool van Amsterdam studying Communcations & Multimedia design."</h2>
+            <h2 className="bio-text">
+              "21 year old student at Hogeschool van Amsterdam studying
+              Communcations & Multimedia design."
+            </h2>
             {prof.location !== null && (
               <div className="location-div">
                 <span className="desc-prof">
@@ -41,9 +44,7 @@ export default function GithubProfileCard({prof}) {
               </div>
             )}
             <div className="opp-div">
-              <span className="desc-prof">
-                Open for opportunities: yes
-              </span>
+              <span className="desc-prof">Open for opportunities: yes</span>
             </div>
             <SocialMedia />
           </div>

@@ -45,13 +45,13 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "ASPIRING FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "ASPIRING FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop interactive Front end / User Interfaces for your web and mobile applications"
     ),
     emoji("⚡ Progressive Web Applications")
-
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -66,7 +66,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -93,21 +93,18 @@ const educationInfo = {
       logo: require("./assets/images/images.png"),
       subHeader: "Communcation & Mulimedia Design",
       duration: "September 2023 - Current"
-
     },
     {
       schoolName: "Windesheim Zwolle",
       logo: require("./assets/images/images (1).png"),
       subHeader: "Ondernemenschap and Retailmanagent",
-      duration: "September 2020 - Juni 2021",
-
+      duration: "September 2020 - Juni 2021"
     },
     {
       schoolName: "Windesheim Zwolle",
       logo: require("./assets/images/images (1).png"),
       subHeader: "E-commerce",
-      duration: "September 2021 - April 2023",
-
+      duration: "September 2021 - April 2023"
     }
   ]
 };
@@ -178,7 +175,8 @@ const openSource = {
 
 const bigProjects = {
   title: "Individual Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR FIRST WEBSITE",
+  subtitle:
+    "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR FIRST WEBSITE",
   projects: [
     {
       image: require("./assets/images/thumbnail_image1-e1706719345552.jpg"),
@@ -212,14 +210,12 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Design Projects "),
-  subtitle:
-    "Design projects I made for school",
+  subtitle: "Design projects I made for school",
 
   achievementsCards: [
     {
       title: "Skiing app",
-      subtitle:
-        "Social skiing app I designed",
+      subtitle: "Social skiing app I designed",
       image: require("./assets/images/skiapp logo.PNG"),
       imageAlt: "skiing app project",
       footerLink: [
@@ -227,13 +223,11 @@ const achievementSection = {
           name: "Open Project",
           url: "https://drive.google.com/file/d/1qSUi1GFTWEaOe04JorYgkkyzuNw2JGD8/view?usp=drive_link"
         }
-
       ]
     },
     {
       title: "Jazz event for the city of Rotterdam",
-      subtitle:
-        "A website for a Jazz event in Rotterdam",
+      subtitle: "A website for a Jazz event in Rotterdam",
       image: require("./assets/images/cityjazz.PNG"),
       imageAlt: "Jazz event for the city of Rotterdam Logo",
       footerLink: [
