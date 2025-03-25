@@ -1,6 +1,6 @@
 {
-  "homepage": "https://christiandewith.github.io/developerFolio",
-  "name": "developerfolio",
+  "homepage": "https://christiandewith.github.io/portfolio-cdw/",
+  "name": "portfolio-cdw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
