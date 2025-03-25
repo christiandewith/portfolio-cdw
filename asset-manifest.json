@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio-cdw/static/css/main.54f05f3f.css",
+    "main.js": "/portfolio-cdw/static/js/main.d0fa90dd.js",
+    "static/css/64.bba8fa55.chunk.css": "/portfolio-cdw/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.ff6c6940.chunk.js": "/portfolio-cdw/static/js/64.ff6c6940.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio-cdw/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.df357301.chunk.js": "/portfolio-cdw/static/js/769.df357301.chunk.js",
+    "static/media/cityjazz.PNG": "/portfolio-cdw/static/media/cityjazz.fa530cd63f2d6349ea8b.PNG",
+    "static/media/Montserrat-Regular.ttf": "/portfolio-cdw/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Capture.PNG": "/portfolio-cdw/static/media/Capture.092b865e65fb34d79f51.PNG",
+    "static/media/Agustina.woff": "/portfolio-cdw/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/cropped-supa-air-1-1-2048x585.png": "/portfolio-cdw/static/media/cropped-supa-air-1-1-2048x585.698b7ead29b1e21ee6e2.png",
+    "static/media/CV_christiandewith (1).pdf": "/portfolio-cdw/static/media/CV_christiandewith (1).cf6910cd5dbe28e0d255.pdf",
+    "static/media/manOnTable.svg": "/portfolio-cdw/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/thumbnail_image1-e1706719345552.jpg": "/portfolio-cdw/static/media/thumbnail_image1-e1706719345552.034c62f4107c358a0229.jpg",
+    "static/media/contactMailDark.svg": "/portfolio-cdw/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/portfolio-cdw/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/portfolio-cdw/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/portfolio-cdw/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/portfolio-cdw/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/portfolio-cdw/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/skiapp logo.PNG": "/portfolio-cdw/static/media/skiapp logo.a46e8bf517302d57947f.PNG",
+    "index.html": "/portfolio-cdw/index.html",
+    "static/media/talksCardBack.svg": "/portfolio-cdw/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.54f05f3f.css.map": "/portfolio-cdw/static/css/main.54f05f3f.css.map",
+    "main.d0fa90dd.js.map": "/portfolio-cdw/static/js/main.d0fa90dd.js.map",
+    "64.bba8fa55.chunk.css.map": "/portfolio-cdw/static/css/64.bba8fa55.chunk.css.map",
+    "64.ff6c6940.chunk.js.map": "/portfolio-cdw/static/js/64.ff6c6940.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio-cdw/static/css/769.b3cbb36b.chunk.css.map",
+    "769.df357301.chunk.js.map": "/portfolio-cdw/static/js/769.df357301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f05f3f.css",
+    "static/js/main.d0fa90dd.js"
+  ]
+}
